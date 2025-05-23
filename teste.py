@@ -15,3 +15,5 @@ st.image(
     output_format="auto",
     use_container_width=False
 )
+list =["sim", "obvio"]
+st.selectbox(list)
