@@ -15,5 +15,5 @@ st.image(
     output_format="auto",
     use_container_width=False
 )
-list =["sim", "obvio"]
-st.selectbox(list)
+opcoes =["sim", "obvio"]
+st.selectbox("vai chamar o pai na dm msm? rs", opcoes)
